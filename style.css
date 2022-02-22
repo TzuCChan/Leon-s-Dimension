@@ -1,0 +1,45 @@
+head {
+ font-size: 100px;
+ text-align: center;
+}
+
+body {
+ margin: 200;
+}
+
+img { height: 300px;
+      width: 200px;
+      padding: 10px 900px 10px;
+      display: block;
+}         
+
+.BK { background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg");
+}
+
+
+.navigation-links {
+ margin: 0;
+ display: flex;
+ justify-content: space-around;
+ list-style-type: none;
+}
+
+.navigation-link {
+ text-decoration: none;
+ color: black;
+ font-family: serif;
+ font-size: 15px;
+}
+
+.navigation {
+background: blue;
+padding: 1rem;
+}         
+
+footer {
+       position: button;
+       font-size: 10px;
+       text-align: center;
+       background: blue;
+       padding: 1rem;
+}
