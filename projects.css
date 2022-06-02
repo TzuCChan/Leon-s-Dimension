@@ -1,0 +1,70 @@
+head {
+  font-size: 100px;
+  text-align: center;
+ }
+ 
+ body {
+  margin: 200;
+ }
+ 
+ img { height: 300px;
+       width: 200px;
+       padding: 10px 900px 10px;
+       display: block;
+ }         
+ 
+ .BK { background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg");
+ }
+ 
+ 
+ .navigation-links {
+  margin: 100;
+  display: flex;
+  justify-content:flex-end;
+  list-style-type: none;
+  color: black;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 1px 20px;
+  box-sizing: inherit;
+ }
+ 
+ /* .navigation-link {
+  text-decoration: none;
+  color: black;
+  font-family: serif;
+  font-size: 15px;
+ } */
+ 
+ .navigation {
+  background: white;
+  letter-spacing: 2px;
+  line-height: 1.5;
+  /* padding: 1rem; */
+  }
+  
+  div {
+    padding: 1px 1px 1px 15px;
+  }
+ 
+ footer {
+        position: button;
+        font-size: 10px;
+        text-align: center;
+        background: blue;
+        padding: 1rem;
+ }
+
+.projects {
+  text-align: center;
+  padding: 50px;
+}
+
+ .description {
+  text-align: center;
+  padding: 1px 400px 300px 400px;
+ }
+
+ h2 {
+   font-size: 100px;
+ }

@@ -1,45 +1,72 @@
 head {
- font-size: 100px;
+ font-size: 1000px;
  text-align: center;
 }
 
 body {
  margin: 200;
+ font-size: 15px;
 }
-
-img { height: 300px;
-      width: 200px;
-      padding: 10px 900px 10px;
-      display: block;
-}         
 
 .BK { background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg");
 }
 
 
 .navigation-links {
- margin: 0;
+ margin: 100;
  display: flex;
- justify-content: space-around;
+ justify-content:flex-end;
  list-style-type: none;
+ color: black;
+ font-size: 15px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ padding: 1px 20px;
+ box-sizing: inherit;
 }
 
-.navigation-link {
+/* .navigation-link {
  text-decoration: none;
  color: black;
  font-family: serif;
- font-size: 15px;
-}
+ font-size: 1500px;
+} */
 
 .navigation {
-background: blue;
-padding: 1rem;
+background: white;
+letter-spacing: 2px;
+line-height: 1.5;
+/* padding: 1rem; */
 }         
 
-footer {
-       position: button;
-       font-size: 10px;
-       text-align: center;
-       background: blue;
-       padding: 1rem;
+.footer {
+  position: button;
+  font-size: 10px;
+  text-align: center;
+  background: black;
+  padding: 1rem;
 }
+
+p {
+  color: white;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family:Arial, Helvetica, sans-serif;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  max-width: 100%;
+}
+
+div {
+  padding: 1px 1px 1px 15px;
+}
+
+/* ul {
+  text-align: center;
+  display: flex;
+  justify-content: flex-end;
+} */
