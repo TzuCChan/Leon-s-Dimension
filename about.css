@@ -7,10 +7,10 @@ head {
   margin: 200;
  }
  
- img { height: 200px;
-       width: 200px;
-       padding: 5px 100px 50px;
-       display: flexbox;
+ img { height: 500px;
+       width: 500px;
+       padding: 5px 200px 50px;
+       display: flex;
  }         
  
  .BK { background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg");
@@ -64,6 +64,7 @@ head {
  .about {
    text-align: right;
    padding: 100px 400px 10px;
+   display: block;
  }
 
  div {
