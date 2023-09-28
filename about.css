@@ -7,13 +7,15 @@ head {
   margin: 200;
  }
  
- img { height: 500px;
-       width: 500px;
-       padding: 5px 200px 50px;
-       display: flex;
+ img {
+  height: 500px;
+  width: 500px;
+  padding: 5px 200px 50px;
+  display: flex;
  }         
  
- .BK { background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg");
+ .BK {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3c/Kiyomizu.jpg");
  }
  
  
