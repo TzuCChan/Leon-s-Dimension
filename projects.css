@@ -47,24 +47,50 @@ head {
     padding: 1px 1px 1px 15px;
   }
  
- footer {
-        position: button;
-        font-size: 10px;
-        text-align: center;
-        background: blue;
-        padding: 1rem;
- }
+.footer {
+    position: button;
+    font-size: 10px;
+    text-align: center;
+    background: black;
+    padding: 1rem;
+}
 
 .projects {
   text-align: center;
   padding: 50px;
 }
 
- .description {
+.description {
   text-align: center;
   padding: 1px 400px 300px 400px;
- }
+}
 
- h2 {
+h2 {
    font-size: 100px;
- }
+}
+
+ /* h3 {
+  font-size: 50px;
+ } */
+
+.project3 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.project4 {
+  font-size: 30px;
+  text-align: center;
+}
+
+.copyright {
+  color: white;
+}
+
+h5 {
+  font-size: 30px;
+}
+
+h6 {
+  font-size: 30px;
+}
